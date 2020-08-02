@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/Space-Jam-Web/static/js/main.1d4a66bf.chunk.js",
-    "main.js.map": "/Space-Jam-Web/static/js/main.1d4a66bf.chunk.js.map",
+    "main.js": "/Space-Jam-Web/static/js/main.fb9edbd6.chunk.js",
+    "main.js.map": "/Space-Jam-Web/static/js/main.fb9edbd6.chunk.js.map",
     "runtime-main.js": "/Space-Jam-Web/static/js/runtime-main.662b37cb.js",
     "runtime-main.js.map": "/Space-Jam-Web/static/js/runtime-main.662b37cb.js.map",
     "static/js/2.1fb24ece.chunk.js": "/Space-Jam-Web/static/js/2.1fb24ece.chunk.js",
     "static/js/2.1fb24ece.chunk.js.map": "/Space-Jam-Web/static/js/2.1fb24ece.chunk.js.map",
     "index.html": "/Space-Jam-Web/index.html",
-    "precache-manifest.fe90f3923aa394a6add738913e7f47d6.js": "/Space-Jam-Web/precache-manifest.fe90f3923aa394a6add738913e7f47d6.js",
+    "precache-manifest.15dbc920d8a2e869e5ad622655d9ae19.js": "/Space-Jam-Web/precache-manifest.15dbc920d8a2e869e5ad622655d9ae19.js",
     "service-worker.js": "/Space-Jam-Web/service-worker.js",
     "static/js/2.1fb24ece.chunk.js.LICENSE.txt": "/Space-Jam-Web/static/js/2.1fb24ece.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.662b37cb.js",
     "static/js/2.1fb24ece.chunk.js",
-    "static/js/main.1d4a66bf.chunk.js"
+    "static/js/main.fb9edbd6.chunk.js"
   ]
 }
